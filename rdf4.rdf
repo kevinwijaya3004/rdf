@@ -1,0 +1,65 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/pertama">
+  <foaf:name>Prada Import Premium Super</foaf:name>
+  <rdf:type>Hand Bag</rdf:type>
+  <dc:color>Hitam</dc:color>
+  <dc:price>Rp. 395.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2020/11/26/2983dd73-5ad7-4b03-b448-b9a9eca28d11.png.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/trendystore05/tas-prada-import-premium-super-black</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/kedua">
+  <foaf:name>Beerybenka</foaf:name>
+  <rdf:type>Shoulder Bag</rdf:type>
+  <dc:color>Beige</dc:color>
+  <dc:price>Rp. 284.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/6/11/4b727d5f-d83c-4f15-b11b-d28a039c9d63.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/berrybenka/berrybenka-tas-wanita-shoulder-bag-sophie-penelope-quilted-shoulder-beige-one-size</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/ketiga">
+  <foaf:name>Lova.id - Shasa</foaf:name>
+  <rdf:type>Ransel</rdf:type>
+  <dc:color>Coklat</dc:color>
+  <dc:price>Rp. 61.200</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/7/23/fbb22821-f5d4-442b-84cc-95c79407782d.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/lovaid-1/lova-id-shasa-tas-ransel-wanita-tan</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/keempat">
+  <foaf:name>Mayonette Ciel Sling Bag</foaf:name>
+  <rdf:type>Selempang Korean Style</rdf:type>
+  <dc:color>Hitam</dc:color>
+  <dc:price>Rp. 125.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/27/bd173355-3809-4d90-af62-c1f890ce669d.png.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/mayonette/mayonette-ciel-sling-bag-tas-selempang-wanita-korean-style-terbaru-black</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/kelima">
+  <foaf:name>Peonia Import</foaf:name>
+  <rdf:type>Desca Bag</rdf:type>
+  <dc:color>Blue</dc:color>
+  <dc:price>Rp. 200.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/7/22/953515bb-c281-469b-bf07-5614f8484f53.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/peonia/peonia-tas-ransel-wanita-import-kantor-sekolah-kuliah-korea-desca-bag-dark-blue</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/keenam">
+  <foaf:name>Miniso Sling Bag Crossbody Bag</foaf:name>
+  <rdf:type>Sling Bag</rdf:type>
+  <dc:color>Pink</dc:color>
+  <dc:price>Rp. 59.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/29/a3b316af-bb32-46e9-9292-dd1d20cc4bc7.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/miniso-official/miniso-tas-selempang-sling-bag-crossbody-bag-mini-lipstik-hutan-merah-muda</foaf:link>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,57 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <rdf:Description rdf:about="http://www.recshop.fake/cd/pertama">
+    <foaf:name>Cavaliero Kaysen</foaf:name>
+    <rdf:type>Casual</rdf:type>
+    <dc:color>White</dc:color>
+    <dc:price>Rp. 499.999</dc:price>
+    <foaf:img>https://images.tokopedia.net/img/cache/200-square/product-1/2021/7/22/3225297/3225297_07ad13b3-0c2d-4746-801b-072ea68d0692.jpg.webp</foaf:img>
+    <foaf:link>https://www.tokopedia.com/cavallero/cavallero-kaysen-white-sepatu-casual-sneakers-pria-40</foaf:link>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.recshop.fake/cd/kedua">
+    <foaf:name>Nike Air Jordan</foaf:name>
+    <rdf:type>Sport</rdf:type>
+    <dc:color>Abu-abu</dc:color>
+    <dc:price>Rp. 199.000</dc:price>
+    <foaf:img>https://images.tokopedia.net/img/cache/200-square/product-1/2020/3/30/545124/545124_12f64d01-40dc-463f-91e7-0f28e154ff91_2048_2048.jpg.webp</foaf:img>
+    <foaf:link>https://www.tokopedia.com/mrchshoes/obral-flash-sale-jual-rugi-sepatu-premium-nike-air-jordan-bnib-vietnam-abu-abu-39</foaf:link>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.recshop.fake/cd/ketiga">
+    <foaf:name>Larocking - Emperor</foaf:name>
+    <rdf:type>Sneakers Running</rdf:type>
+    <dc:color>Hitam Abu-abu</dc:color>
+    <dc:price>Rp. 99.900</dc:price>
+    <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/8/31/aa101e9e-23f2-4929-8b86-396ce3e6513c.jpg.webp</foaf:img>
+    <foaf:link>https://www.tokopedia.com/larocking/larocking-emperor-hitam-abu-sepatu-sneakers-running-gym-shoes-hitam-abu-39</foaf:link>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.recshop.fake/cd/keempat">
+    <foaf:name>Nike Airmax 720</foaf:name>
+    <rdf:type>Running</rdf:type>
+    <dc:color>Navy</dc:color>
+    <dc:price>Rp. 145.000</dc:price>
+    <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/27/6dd87811-423e-4daf-8dd3-56ec1432efff.jpg.webp</foaf:img>
+    <foaf:link>https://www.tokopedia.com/dreamshoes/sepatu-pria-nike-airmax-720-sneakers-olahraga-running-murah-premium-navy-42</foaf:link>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.recshop.fake/cd/kelima">
+    <foaf:name>Dane and Dine S0010</foaf:name>
+    <rdf:type>Sneakers Man</rdf:type>
+    <dc:color>Black</dc:color>
+    <dc:price>Rp. 119.000</dc:price>
+    <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/12/ae1885c7-b176-4fd8-8fb2-aa4c4f5b2009.jpg.webp</foaf:img>
+    <foaf:link>https://www.tokopedia.com/dane-dine/dane-and-dine-sneakers-man-s0010-black-s0010-black-39</foaf:link>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.recshop.fake/cd/keenam">
+    <foaf:name>SH05 Canvas Shoes </foaf:name>
+    <rdf:type>Korean Style</rdf:type>
+    <dc:color>Purple</dc:color>
+    <dc:price>Rp. 74.900</dc:price>
+    <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/4/8/642bc5b2-dd45-47a8-ac09-5a0df518dac7.jpg.webp</foaf:img>
+    <foaf:link>https://www.tokopedia.com/ennwen/sh05-sepatu-kanvas-wanita-gaya-korea-signiture-women-canvas-shoes-beige-38</foaf:link>
+  </rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,65 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/pertama">
+  <foaf:name>Dr. Pepstory Mask KF94 5 Pcs</foaf:name>
+  <rdf:type>Masker</rdf:type>
+  <dc:color>White</dc:color>
+  <dc:price>Rp. 75.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/product-1/2020/10/14/12724361/12724361_47511c68-70eb-4c8d-a157-f6f2bac054b3_1300_1300.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/merdis/dr-pepstory-mask-kf94-masker-bedah-masker-korea-5pcs</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/kedua">
+  <foaf:name>Lumbar Traction Device Dr Qyu</foaf:name>
+  <rdf:type>Bantal Kesehatan</rdf:type>
+  <dc:color>Black</dc:color>
+  <dc:price>Rp. 2.999.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/8/2/5ace5d21-b8aa-4d3a-a904-c4bdc0496518.png.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/online-marketindo/lumbar-traction-device-dr-qyu-bantal-kesehatan-untuk-sakit-pinggang</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/ketiga">
+  <foaf:name>Onemed P3K - Outdoor First Aid Kit</foaf:name>
+  <rdf:type>Med Kit</rdf:type>
+  <dc:color>Merah</dc:color>
+  <dc:price>Rp. 20.499</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/attachment/2020/8/21/-1/-1_6ce061d7-2152-4a49-a40d-df7ace360b70.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/mauin/onemed-p3k-warna-merah-model-dompet-one-med-outdoor-first-aid-kit</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/keempat">
+  <foaf:name>Blackmores Multivitamins + Minerals</foaf:name>
+  <rdf:type>Vitamin Kapsul</rdf:type>
+  <dc:color>Botol</dc:color>
+  <dc:price>Rp. 146.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/19/bc0692e3-1de7-4a0f-9600-9264ebc34691.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/mitrasanabandung/blackmores-multivitamins-minerals-30</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/kelima">
+  <foaf:name>Countur Plus 25 Strip 2 Box</foaf:name>
+  <rdf:type>Hand Sinitizer</rdf:type>
+  <dc:color>White</dc:color>
+  <dc:price>Rp. 237.300</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/product-1/2020/6/24/88985578/88985578_8b33440f-f6d4-42ef-b8fe-bd5e325508fb_700_700.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/contourofficial/contour-plus-25-strip-2-box-free-hand-sinitizer</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/keenam">
+  <foaf:name>Zespa Jade Massage Slippers</foaf:name>
+  <rdf:type>Sandal Terapi Kesehatan</rdf:type>
+  <dc:color>Red in Black</dc:color>
+  <dc:price>Rp. 526.300</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/9/22/5d62a288-ea53-4fad-a76a-84895f2ea6b8.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/oshoptvofficial/sandal-terapi-kesehatan-zespa-jade-massage-slippers-oshop-s</foaf:link>
+</rdf:Description>
+
+</rdf:RDF>

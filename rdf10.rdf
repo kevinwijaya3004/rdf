@@ -1,0 +1,105 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+
+<rdf:Description
+rdf:about="http://www.ggshop.fake/cd/gadgetPertama">
+  <foaf:name>Samsung Galaxy Z Fold 3</foaf:name>
+  <rdf:storage>12/512 GB</rdf:storage>
+  <dc:color>Panthom Black</dc:color>
+  <dc:price>Rp. 26.999.000</dc:price>
+  <dc:description>Triple Rear Camera, Qualcomm SM8350 Snapdragon 888 5G (5 nm) Chipset, with Octa Core CPU, And Adreno 660 GPU</dc:description>
+  <foaf:img>https://images.samsung.com/is/image/samsung/p6pim/id/2108/gallery/id-galaxy-z-fold3-f926-5g-sm-f926bzsdxid-474133463</foaf:img>
+  <foaf:link>https://www.tokopedia.com/suryaphone-samsung/samsung-galaxy-z-fold3-5g-12-512gb-phantom-black</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.ggshop.fake/cd/gadgetKedua">
+  <foaf:name>Apple iPhone 13 Pro Max</foaf:name>
+  <rdf:storage>6/512 GB</rdf:storage>
+  <dc:color>Sierra Blue</dc:color>
+  <dc:price>Rp. 28.750.000</dc:price>
+  <dc:description>Quad Rear Camera, Apple A15 Bionic (5 nm) with Hexa Core CPU and Apple GPU</dc:description>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/9/29/8a125c26-878b-4bdb-a729-afb167ec6c60.png.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/putragroup/iphone-13-pro-max-128gb-256gb-512gb-1tb-sierra-blue-graphite-gold-silv-ibox-512gb-sierra-blue</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.ggshop.fake/cd/gadgetKetiga">
+ <foaf:name>ASUS ROG Phone 5</foaf:name>
+  <rdf:storage>16/256 GB</rdf:storage>
+  <dc:color>Phantom Black</dc:color>
+  <dc:price>Rp. 17.700.000</dc:price>
+  <dc:description>Triple Rear Camera, Qualcomm SM8350 Snapdragon 888 5G (5 nm) Chipset, with Octa Core CPU, And Adreno 660 GPU</dc:description>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/3/26/99f2f2d7-0356-483e-b242-e66c9ab5d829.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/grenpeelstore/rog-phone-5s-pro-18-512gb-18-256gb-snapdragon-888-5g-white-black-18gb-256gb-5s-hitam</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.ggshop.fake/cd/gadgetKeempat">
+ <foaf:name>Xiaomi Black Shark 4</foaf:name>
+  <rdf:storage>8/128 GB</rdf:storage>
+  <dc:color>Mirror Black</dc:color>
+  <dc:price>Rp. 8.099.000</dc:price>
+  <dc:description>Triple Rear Camera, Qualcomm SM8250-AC Snapdragon 870 5G (5nm) Chipset, with Octa Core CPU, And Adreno 650 GPU</dc:description>
+  <foaf:img>https://www.tokohapedia.co.id/storage/media/zhuV5CWYFa13pq9qw3knov6syP1ioSUloqyfWsmE.jpeg</foaf:img>
+  <foaf:link>https://www.tokopedia.com/itoms/blackshark-black-shark-4-ram-8gb-128gb-gaming-phone</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.ggshop.fake/cd/gadgetKelima">
+  <foaf:name>OnePlus 9 Pro</foaf:name>
+  <rdf:storage>12/256 GB</rdf:storage>
+  <dc:color>Pine Green</dc:color>
+  <dc:price>Rp. 10.490.000</dc:price>
+  <dc:description>Quad Rear Camera, Qualcomm SM8350 Snapdragon 888 5G (5 nm), with Octa Core CPU, And Adreno 660 GPU</dc:description>
+  <foaf:img>https://i.gadgets360cdn.com/large/oneplus_9_pro_image_2_1617264222830.jpg</foaf:img>
+  <foaf:link>https://www.tokopedia.com/putragroup/oneplus-9-pro-256gb-12gb-128gb-8gb-global-version-one-plus-9-oneplus-9-256gb-black</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.ggshop.fake/cd/gadgetKeenam">
+  <foaf:name>Google Pixel 6 Pro</foaf:name>
+  <rdf:storage>12/256 GB</rdf:storage>
+  <dc:color>Sorta Sunny</dc:color>
+  <dc:price>Rp. 13.000.000</dc:price>
+  <dc:description>Triple Rear Camera, Google Tensor (5 nm), with Octa Core CPU, And Mali-G78 MP20 GPU</dc:description>
+  <foaf:img>https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:744/height:496/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/androidworld.nl/images/2021-08/google-pixel-6-610f9f5f0aa18.jpg</foaf:img>
+  <foaf:link>https://www.tokopedia.com/technophilia/google-pixel-6-dan-6-pro-new-bnob-region-japan-all-operator-permanen-pixel-6-128gb</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.ggshop.fake/cd/gadgetKetujuh">
+  <foaf:name>Samsung S21 Ultra</foaf:name>
+  <rdf:storage>12/256 GB</rdf:storage>
+  <dc:color>Phantom Silver</dc:color>
+  <dc:price>Rp. 14.999.000</dc:price>
+  <dc:description>Quad Rear Camera,Exynos 2100 (5 nm), with Octa Core CPU, And Mali-G78 MP14 GPU</dc:description>
+  <foaf:img>https://images.tokopedia.net/img/cache/900/VqbcmM/2021/1/20/53593b85-f376-4d39-8c25-ccc3a8889230.jpg</foaf:img>
+  <foaf:link>https://www.tokopedia.com/ugadgetin/samsung-galaxy-s21-ultra-16-512gb-12-256gb-s21-12-128gb-garansi-black-s21-plus-256</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.ggshop.fake/cd/gadgetKedelapan">
+  <foaf:name>Xiaomi Mi 11 Ultra</foaf:name>
+  <rdf:storage>12/256 Gb</rdf:storage>
+  <dc:color>Cosmic Black</dc:color>
+  <dc:price>Rp. 18.999.000</dc:price>
+  <dc:description>Triple Rear Camera, Qualcomm SM8350 Snapdragon 888 5G (5 nm), with Octa Core CPU, And Adreno 660 GPU</dc:description>
+  <foaf:img>https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/8/2/80971e1f-75a3-4b87-9781-fe803e8ee92f.jpg</foaf:img>
+  <foaf:link>https://www.tokopedia.com/langget/mi-11-ultra-12-256-termurah-garansi-resmi-xiaomi-indonesia-ceramic-white</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.ggshop.fake/cd/gadgetKesembilan">
+  <foaf:name>Oppo Find X3 Pro</foaf:name>
+  <rdf:storage>12/256 Gb</rdf:storage>
+  <dc:color>Gloss Black</dc:color>
+  <dc:price>Rp. 12.999.000</dc:price>
+  <dc:description>Quad Rear Camera, Qualcomm SM8350 Snapdragon 888 5G (5 nm), ith Octa Core CPU, And Adreno 660 GPU</dc:description>
+  <foaf:img>https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/6/21/299adbe4-d363-48b3-8807-fb0df41b3564.jpg</foaf:img>
+  <foaf:link>https://www.tokopedia.com/aalinshop/oppo-find-x3-pro-5g-12-256gb-garansi-resmi-oppo-indonesia</foaf:link>
+</rdf:Description>
+
+</rdf:RDF>

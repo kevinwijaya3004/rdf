@@ -1,0 +1,65 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/pertama">
+  <foaf:name>Jam Biden Pria Fashionable</foaf:name>
+  <rdf:type>Sport</rdf:type>
+  <dc:color>Green</dc:color>
+  <dc:price>Rp. 240.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/9/10/b20b324e-885d-4dae-a0c4-9422f7767daf.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/watchyourhome/jam-tangan-biden-pria-fashionable-multi-function-outdoor-sports-jam-hijau</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/kedua">
+  <foaf:name>Xiaomi Mi Watch Lite</foaf:name>
+  <rdf:type>Smartwatch</rdf:type>
+  <dc:color>Navy Blue</dc:color>
+  <dc:price>Rp. 769.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/3/3/635b2504-8b5b-4a52-ace2-cf18b07e081a.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/mii-store/xiaomi-mi-watch-lite-smartwatch-navy-blue</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/ketiga">
+  <foaf:name>Amazfit GTS Smartwatch Fashion</foaf:name>
+  <rdf:type>Smartwatch</rdf:type>
+  <dc:color>Rose Pink</dc:color>
+  <dc:price>Rp. 1.149.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/20/f32bf22f-bab7-4a30-8e9d-9969bc304d19.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/amazfitofficial-/amazfit-gts-smartwatch-fashion-fit-international-version-garansi-resmi-rose-pink</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/keempat">
+  <foaf:name>Honor Watch GS Pro Fitness</foaf:name>
+  <rdf:type>Smartwatch</rdf:type>
+  <dc:color>Camo Blue</dc:color>
+  <dc:price>Rp. 2.299.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/11/19/26713584-9390-496a-b317-34fcb6f525fa.png.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/honorofficialsho/honor-watch-gs-pro-fitness-smartwatch-garansi-resmi-1-tahun-camo-blue</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/kelima">
+  <foaf:name>Apple Watch Series 3 GPS</foaf:name>
+  <rdf:type>Smartwatch</rdf:type>
+  <dc:color>White</dc:color>
+  <dc:price>Rp. 3.379.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/7/30/89ed045d-44cf-4d9b-8dd3-4d98cfc4efab.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/applewatchstuff/apple-watch-series-3-gps-38mm-silver-aluminium-with-white-sport-band-bnib</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/keenam">
+  <foaf:name>Swiss Army Original</foaf:name>
+  <rdf:type>Jam Analog</rdf:type>
+  <dc:color>Black</dc:color>
+  <dc:price>Rp. 350.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/product-1/2020/1/10/71695197/71695197_5cddcb19-9489-4cbd-8e36-812b493eb48c_1075_1075.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/aulia12345/jam-tangan-swiss-army-original-swissarmy-dhc-expedition-ac</foaf:link>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,65 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/pertama">
+  <foaf:name>Bolivia Recliner 1 Seater</foaf:name>
+  <rdf:type>Sofa</rdf:type>
+  <dc:color>Coklat</dc:color>
+  <dc:price>Rp. 7.068.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/product-1/2017/10/12/3836771/3836771_3b5fb2e1-e734-4dd3-b7b7-7e1c626e4d28_800_800.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/atriafurniture/sofa-bolivia-recliner-1-seater</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/kedua">
+  <foaf:name>Celeste 3 Seat </foaf:name>
+  <rdf:type>Sofa</rdf:type>
+  <dc:color>Grey</dc:color>
+  <dc:price>Rp. 6.309.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/product-1/2018/6/8/3836771/3836771_4516a73d-49d4-45cd-b91e-adc12c8bc1e6_800_800.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/atriafurniture/sofa-celeste-3-seat-grey</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/ketiga">
+  <foaf:name>Wardrobe Y105</foaf:name>
+  <rdf:type>Rak Baju Portable</rdf:type>
+  <dc:color>Multicolor - Animal</dc:color>
+  <dc:price>Rp. 169.900</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/product-1/2019/8/24/29524372/29524372_bfde804a-6895-4d06-bb2d-b41c2ec7f932_800_800.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/azonex/lemari-pakaian-portable-rak-serbaguna-baju-wardrobe-y105-multicolor-animal-c4a9</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/keempat">
+  <foaf:name>Kitchen Set / Lemari / furniture Interior</foaf:name>
+  <rdf:type>Kitchen Set</rdf:type>
+  <dc:color>Warna Kayu</dc:color>
+  <dc:price>Rp. 1.750.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/product-1/2020/5/23/42825054/42825054_f57eee1b-18ca-4ea6-a1a1-62ad2cbf9d36_1034_1034.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/elektroniksmurah/kitchen-set-lemari-furniture-interior-jakarta</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/kelima">
+  <foaf:name>Kasur Busa Orthopedic</foaf:name>
+  <rdf:type>Kasur Busa</rdf:type>
+  <dc:color>Blue</dc:color>
+  <dc:price>Rp. 749.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/1/5/7e4836ca-da75-4d02-9e4f-5a1b58772258.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/vassa-sofa/kasur-busa-orthopedic-kasur-busa-keras-busa-rebonded-tebal-20-cm-90-x-200</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/keenam">
+  <foaf:name>Meja Makan Marmer Rangka Stainless</foaf:name>
+  <rdf:type>Meja makan </rdf:type>
+  <dc:color>Hitam</dc:color>
+  <dc:price>Rp. 1.499.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2020/9/28/f96070cf-ab81-472a-a0c5-7854959b6b4d.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/jth/meja-makan-marmer-rangka-stainless-hitam</foaf:link>
+</rdf:Description>
+
+</rdf:RDF>

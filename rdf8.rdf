@@ -1,0 +1,65 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/pertama">
+  <foaf:name>Merries Pants | 30</foaf:name>
+  <rdf:type>Popok Celana L</rdf:type>
+  <dc:color>White</dc:color>
+  <dc:price>Rp. 50.300</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/250-square/VqbcmM/2021/6/30/5763d073-585f-4cb4-a45a-8456cea06d42.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/rachmatagency/merries-pants-l-30</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/kedua">
+  <foaf:name>Pediasure Triplesure Vanila </foaf:name>
+  <rdf:type>Susu 1800 gram</rdf:type>
+  <dc:color>(4 x 450 gram)</dc:color>
+  <dc:price>Rp. 489.900</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/250-square/hDjmkQ/2021/11/14/fc2ef015-18a3-4eaf-975c-1a22bfc019ab.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/kapalperang/pediasure-triplesure-vanila-1800-gram-4-x-450-gram</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/ketiga">
+  <foaf:name>Doodle Minyak Telon Plus Greentea</foaf:name>
+  <rdf:type>Minyak Telon</rdf:type>
+  <dc:color>100 ml</dc:color>
+  <dc:price>Rp. 39.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/250-square/VqbcmM/2020/10/28/ab9078ad-62dd-4395-996f-f3ee316c3e84.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/kiddobabystore/doodle-minyak-telon-plus-greentea-100ml</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/keempat">
+  <foaf:name>Mainan Brick Balok</foaf:name>
+  <rdf:type>Mainan DIY Susun Balok</rdf:type>
+  <dc:color>280 Keping Set</dc:color>
+  <dc:price>Rp. 65.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/250-square/VqbcmM/2021/6/25/275f717c-c2bd-46f7-b8bd-d0a3b09e7505.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/lovelygubuk/mainan-bricks-balok-280-pcs-set-anak-diy-susun-balok-anak-280-keping-set</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/kelima">
+  <foaf:name>Mama's Choise Maternity Casual Button Dress</foaf:name>
+  <rdf:type>Dress - Terracotta</rdf:type>
+  <dc:color>Orange</dc:color>
+  <dc:price>Rp. 179.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/8/18/3298b05c-8876-42da-b355-9cb84eeffc1d.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/mamaschoiceid/mama-s-choice-maternity-casual-button-dress-terracotta</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/keenam">
+  <foaf:name>Goes Baby Wrap 3 in 1</foaf:name>
+  <rdf:type>Gendongan Bayi</rdf:type>
+  <dc:color>Grey</dc:color>
+  <dc:price>Rp. 85.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/6/a1318195-33c8-402a-8ad1-aac91e6a130c.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/kafinc/gendongan-bayi-depan-dan-samping-geos-baby-wrap-3in1-instan-polos-grey-s</foaf:link>
+</rdf:Description>
+
+</rdf:RDF>

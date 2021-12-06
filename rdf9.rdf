@@ -1,0 +1,65 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/pertama">
+  <foaf:name>Cargloss CM Cargloss Helm</foaf:name>
+  <rdf:type>Half Face Helm</rdf:type>
+  <dc:color>Black Doff</dc:color>
+  <dc:price>Rp. 121.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/250-square/VqbcmM/2021/9/15/1e654b18-35c3-4f01-add6-79b8a8e94443.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/helm-cargloss/cargloss-cm-cargloss-helm-half-face-black-doff</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/kedua">
+  <foaf:name>Kain Microfiber 2 Sisi</foaf:name>
+  <rdf:type>Kain Lap</rdf:type>
+  <dc:color>Black and Yellow</dc:color>
+  <dc:price>Rp. 5.499</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/250-square/VqbcmM/2021/10/13/572fc395-5229-4b77-8926-b9b9ae0483a1.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/modifikasimarket/kain-microfiber-kain-lap-microfiber-2-sisi-500gsm-2-warna-tebal-halus</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/ketiga">
+  <foaf:name>USAMS SJ503</foaf:name>
+  <rdf:type>Car Audio Reciever</rdf:type>
+  <dc:color>Black</dc:color>
+  <dc:price>Rp. 345.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/7/2/fa2e0545-bf10-413b-b26b-59c2575faf59.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/usamsidofficial/usams-sj503-car-audio-receiver-bluetooth-fm-wireless-microsd-bt5-0</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/keempat">
+  <foaf:name>DETA-Yamaha All New NMAX Non ABS 2021</foaf:name>
+  <rdf:type>Sepeda Motor</rdf:type>
+  <dc:color>Hitam</dc:color>
+  <dc:price>Rp. 30.499.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/7/15/eebce502-0f41-47a3-b007-3d3c08835cca.png.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/detayamaha/deta-yamaha-all-new-nmax-non-abs-2021-otr-jadetabek-sepeda-motor-hitam</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/kelima">
+  <foaf:name>Vespa Sprint S 150 I-Get</foaf:name>
+  <rdf:type>Vespa</rdf:type>
+  <dc:color>Yellow Sole</dc:color>
+  <dc:price>Rp. 51.500.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/8/18/d43d443a-994f-42d5-8ef7-2ed75e2f2cbc.jpg.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/vespadwipratama/vespa-sprint-s-150-i-get-yellow-sole-bekasi</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/keenam">
+  <foaf:name>Nissan All-New Livina 1.5 VL AT</foaf:name>
+  <rdf:type>Mobil</rdf:type>
+  <dc:color>Merah</dc:color>
+  <dc:price>Rp. 272.100.000</dc:price>
+  <foaf:img>https://images.tokopedia.net/img/cache/200-square/product-1/2020/3/19/7033033/7033033_38fc5ccf-50ad-46e7-a7ce-736f81f296a9_1080_1080.webp</foaf:img>
+  <foaf:link>https://www.tokopedia.com/indomobilnissan/nissan-all-new-livina-1-5-vl-at</foaf:link>
+</rdf:Description>
+
+</rdf:RDF>

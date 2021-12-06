@@ -1,0 +1,95 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/pertama">
+  <foaf:name>Beast Glitch</foaf:name>
+  <rdf:type>Tee</rdf:type>
+  <dc:color>Black</dc:color>
+  <dc:price>Rp. 399.000</dc:price>
+  <foaf:img>https://cdn.shopify.com/s/files/1/0016/1975/5059/products/MRBEAST-GLTICH-TEE-BLACK4.jpg?v=1614952362</foaf:img>
+  <foaf:link>https://shopmrbeast.com/products/beast-glitch-tee-black</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/kedua">
+  <foaf:name>Beast 98</foaf:name>
+  <rdf:type>Long Sleeve Tee</rdf:type>
+  <dc:color>Grey</dc:color>
+  <dc:price>Rp. 539.000</dc:price>
+  <foaf:img>https://cdn.shopify.com/s/files/1/0016/1975/5059/products/MRBEAST-BEAST98-LONG-SLEEVE1.jpg?v=1614952976</foaf:img>
+  <foaf:link>https://shopmrbeast.com/products/beast-98-long-sleeve-tee</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/ketiga">
+  <foaf:name>Beast Escapism</foaf:name>
+  <rdf:type>Long Sleeve Tee</rdf:type>
+  <dc:color>Yellow</dc:color>
+  <dc:price>Rp. 539.000</dc:price>
+  <foaf:img>https://cdn.shopify.com/s/files/1/0016/1975/5059/products/MRBEAST-ESCAPISM-LONG-SLEEVE-YELLOW3.jpg?v=1614953067</foaf:img>
+  <foaf:link>https://shopmrbeast.com/products/beast-escapism-long-sleeve-tee-yellow</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/keempat">
+  <foaf:name>Beast Glitch</foaf:name>
+  <rdf:type>Hoodie</rdf:type>
+  <dc:color>Green</dc:color>
+  <dc:price>Rp. 839.900</dc:price>
+  <foaf:img>https://cdn.shopify.com/s/files/1/0016/1975/5059/products/MRBEAST-GLITCH-HOODIE-GREEN5.jpg?v=1614953147</foaf:img>
+  <foaf:link>https://shopmrbeast.com/products/beast-glitch-hoodie-green</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/kelima">
+  <foaf:name>Beast Escapism</foaf:name>
+  <rdf:type>Hoodie</rdf:type>
+  <dc:color>Light Blue</dc:color>
+  <dc:price>Rp. 859.000</dc:price>
+  <foaf:img>https://cdn.shopify.com/s/files/1/0016/1975/5059/products/MRBEAST-ESCAPISM-HOODIE-LIGHT-BLUE3.jpg?v=1614952435</foaf:img>
+  <foaf:link>https://shopmrbeast.com/products/beast-escapism-hoodie-light-blue</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/keenam">
+  <foaf:name>Beast Escapism</foaf:name>
+  <rdf:type>Dad Hat</rdf:type>
+  <dc:color>Pink</dc:color>
+  <dc:price>Rp. 539.000</dc:price>
+  <foaf:img>https://cdn.shopify.com/s/files/1/0016/1975/5059/products/MRBEAST-ESCAPISM-DAD-HAT-PINK7.jpg?v=1613770461</foaf:img>
+  <foaf:link>https://shopmrbeast.com/products/beast-escapism-dad-hat-pink</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/ketujuh">
+  <foaf:name>Frosted Beast Snapback</foaf:name>
+  <rdf:type>Snapback</rdf:type>
+  <dc:color>Blue</dc:color>
+  <dc:price>Rp. 299.000</dc:price>
+  <foaf:img>https://cdn.shopify.com/s/files/1/0016/1975/5059/products/MRBEAST-FROSTED-BEAST-SNAPBACK1_1080x.jpg?v=1635861558</foaf:img>
+  <foaf:link>https://shopmrbeast.com/products/frosted-beast-snapback</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/kedelapan">
+  <foaf:name>MrBeast Burger Boy Plush Toy</foaf:name>
+  <rdf:type>Toy</rdf:type>
+  <dc:color>Yellow</dc:color>
+  <dc:price>Rp. 299.000</dc:price>
+  <foaf:img>https://cdn.shopify.com/s/files/1/0016/1975/5059/products/MRBEAST-BURGER-BURGER-BOY-PLUSHY1_1080x.jpg?v=1633975501</foaf:img>
+  <foaf:link>https://shopmrbeast.com/products/mrbeast-burger-boy-plush-toy</foaf:link>
+</rdf:Description>
+
+<rdf:Description
+rdf:about="http://www.recshop.fake/cd/kesembilan">
+  <foaf:name>Beast 'Firecracker' Tee</foaf:name>
+  <rdf:type>Tee</rdf:type>
+  <dc:color>Yellow</dc:color>
+  <dc:price>Rp. 389.000</dc:price>
+  <foaf:img>https://cdn.shopify.com/s/files/1/0016/1975/5059/products/MRBEAST-FIRECRACKER-TEE1_1080x.jpg?v=1591907198</foaf:img>
+  <foaf:link>https://shopmrbeast.com/products/beast-firecracker-tee</foaf:link>
+</rdf:Description>
+
+</rdf:RDF>

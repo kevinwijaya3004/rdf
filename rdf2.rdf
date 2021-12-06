@@ -1,0 +1,57 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <rdf:Description rdf:about="http://www.recshop.fake/cd/pertama">
+    <foaf:name>JBL T500 BT</foaf:name>
+    <rdf:type>wireless Bluetooth</rdf:type>
+    <dc:color>Black edition</dc:color>
+    <dc:price>Rp. 499.000</dc:price>
+    <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2020/11/26/5837bb88-72df-46f4-b3ff-95f52f6bb359.png.webp</foaf:img>
+    <foaf:link>https://www.tokopedia.com/jbl-official/jbl-t500-bt-black</foaf:link>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.recshop.fake/cd/kedua">
+    <foaf:name>Lenovo G30 Headphone Gaming</foaf:name>
+    <rdf:type>Wired</rdf:type>
+    <dc:color>Hitam</dc:color>
+    <dc:price>Rp. 169.000</dc:price>
+    <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/9/17/b4e33b98-6893-4170-8e71-4e89a1f8877a.jpg.webp</foaf:img>
+    <foaf:link>https://www.tokopedia.com/lenovoaudio/lenovo-g30-headphone-gaming-wired-microphone-headset-stereo-led-hitam</foaf:link>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.recshop.fake/cd/ketiga">
+    <foaf:name>Sony WH 1000XM4 Noise Cancelling</foaf:name>
+    <rdf:type>Wireless Bluetooth</rdf:type>
+    <dc:color>Black</dc:color>
+    <dc:price>Rp. 3.799.000</dc:price>
+    <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/10/26/7eaa51b8-8928-475e-8b3a-1611da15a303.jpg.webp</foaf:img>
+    <foaf:link>https://www.tokopedia.com/itoms/sony-wh-1000xm4-wh-1000xm4-wh1000xm4-noise-cancelling-headphone-hitam</foaf:link>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.recshop.fake/cd/keempat">
+    <foaf:name>Audio-Technica ATH-AVC200 Sonic Pro</foaf:name>
+    <rdf:type>Wired</rdf:type>
+    <dc:color>Black</dc:color>
+    <dc:price>Rp. 295.000</dc:price>
+    <foaf:img>https://images.tokopedia.net/img/cache/200-square/product-1/2020/8/20/3424234/3424234_f350e49b-68a1-476c-a11b-b77d9bcaf3f5_700_700.webp</foaf:img>
+    <foaf:link>https://www.tokopedia.com/duniacom-srv/audio-technica-ath-avc200-sonicpro-over-ear-dynamic-headphone-hitam</foaf:link>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.recshop.fake/cd/kelima">
+    <foaf:name>Samsung AKG N700 NCM2</foaf:name>
+    <rdf:type>Wireless</rdf:type>
+    <dc:color>Hitam</dc:color>
+    <dc:price>Rp. 1.599.000</dc:price>
+    <foaf:img>https://images.tokopedia.net/img/cache/200-square/VqbcmM/2021/2/22/c695a170-6bd6-4448-ba75-adf1758195d5.jpg.webp</foaf:img>
+    <foaf:link>https://www.tokopedia.com/bestdealofficial/samsung-akg-n700-ncm2-wireless-noise-cancelling-headphones-resmi-sein</foaf:link>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.recshop.fake/cd/keenam">
+    <foaf:name>Beyerdynamic DT770 / DT 770 Pro</foaf:name>
+    <rdf:type>Wired</rdf:type>
+    <dc:color>Black</dc:color>
+    <dc:price>Rp. 3.150.000</dc:price>
+    <foaf:img>https://images.tokopedia.net/img/cache/200-square/product-1/2020/7/28/3576159/3576159_50ea8fca-9deb-4f62-83b6-10dab15d9e2c_700_700.webp</foaf:img>
+    <foaf:link>https://www.tokopedia.com/csi-zone/beyerdynamic-dt770-dt-770-pro-closed-back-headphone-32-ohm</foaf:link>
+  </rdf:Description>
+
+</rdf:RDF>
